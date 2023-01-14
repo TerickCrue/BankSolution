@@ -19,7 +19,7 @@ public static class EmailService
 
         using (var client = new SmtpClient()) {
             client.Connect("smtp.gmail.com", 587, false);
-            client.Authenticate("erick.rojaspapu04@gmail.com", "wmkeewodtbvntmsh");
+            client.Authenticate("erick.rojaspapu04@gmail.com", "1111111111111111");
             client.Send(message);
             client.Disconnect(true);
 
