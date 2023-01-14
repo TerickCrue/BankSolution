@@ -1,0 +1,26 @@
+[
+  {
+    "Department": "IT",
+    "ID": 4,
+    "Name": "pancho juarez",
+    "Email": "juarez_pancho@gmail.com",
+    "Balance": 4200.0,
+    "RegisterDate": "2023-01-12T19:14:31.1281804-06:00"
+  },
+  {
+    "Department": "TI",
+    "ID": 1,
+    "Name": "erick",
+    "Email": "erick.cobos@gmail.com",
+    "Balance": 1500.0,
+    "RegisterDate": "2023-01-13T18:25:26.2248089-06:00"
+  },
+  {
+    "TaxRegime": "M",
+    "ID": 2,
+    "Name": "erick",
+    "Email": "erick.cobos@gmail.com",
+    "Balance": 5100.0,
+    "RegisterDate": "2023-01-13T18:38:53.9660334-06:00"
+  }
+]
